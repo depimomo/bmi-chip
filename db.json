@@ -1,0 +1,21 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "height": 180,
+      "weight": 60,
+      "gender": "Male",
+      "dateOfBirth": "1995-10-10"
+    },
+    {
+      "id": 2,
+      "name": "Bertha Doe",
+      "height": 170,
+      "weight": 55,
+      "gender": "Male",
+      "dateOfBirth": "1995-10-10"
+    }
+  ]
+}
+
