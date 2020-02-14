@@ -6,7 +6,20 @@
       "height": 180,
       "weight": 60,
       "gender": "Male",
-      "dateOfBirth": "1995-10-10"
+      "dateOfBirth": "1995-10-10",
+      "maritalStatus": "MARRIED",
+      "nationality": "INDONESIA",
+      "identityAddress": "CIANJUR",
+      "identityRTNumber": "001",
+      "identityRWNumber": "001",
+      "identitypostalCode": "66321",
+      "identityCountry": "INDONESIA",
+      "identityProvince": "JAWA BARAT",
+      "identityCity": "KAB. CIANJUR",
+      "identityDistrict": "CIANJUR",
+      "identityVillage": "CIANJUR",
+      "residenceStatus": "WNI",
+      "birthPlaceCountry": "ID-INDONESIA"
     },
     {
       "id": 2,
@@ -14,8 +27,20 @@
       "height": 170,
       "weight": 55,
       "gender": "Male",
-      "dateOfBirth": "1995-10-10"
+      "dateOfBirth": "1995-10-10",
+      "maritalStatus": "MARRIED",
+      "nationality": "INDONESIA",
+      "identityAddress": "CIANJUR",
+      "identityRTNumber": "001",
+      "identityRWNumber": "001",
+      "identitypostalCode": "66321",
+      "identityCountry": "INDONESIA",
+      "identityProvince": "JAWA BARAT",
+      "identityCity": "KAB. CIANJUR",
+      "identityDistrict": "CIANJUR",
+      "identityVillage": "CIANJUR",
+      "residenceStatus": "WNI",
+      "birthPlaceCountry": "ID-INDONESIA"
     }
   ]
 }
-
